@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, serif;
+}
+table{
+    border-collapse: 1px black solid;
+    width: 40%;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+
+
+table, th, td {
+    border: 1px black solid;
+}
+
+th{
+    height: 60px;
+    text-transform: uppercase;
+    background-color: teal;
+    font-size: 25px;
+    color:aqua
+}
+
+td{
+    height:35px ;
+    padding-left: 25px;
+}
+
+tr:hover{
+    background-color: aquamarine;
+}
+
+tr:nth-child(even){
+    background-color: bisque;
+}
+
+div{
+    background-color: azure;
+    width: 60%;
+}
+
