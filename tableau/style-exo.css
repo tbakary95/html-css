@@ -1,0 +1,24 @@
+.bakary{
+    background-color: grey;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+    width:200px ;
+    height:100px;
+
+}
+.bakary2{
+    background-color: cadetblue;
+    left: 100px;
+}
+.ligne1{
+    border-bottom: thin solid
+}
+
+.ligne2{
+    border-bottom: thin solid
+}
+
+.ligne3{
+    border-bottom: thin solid
+}

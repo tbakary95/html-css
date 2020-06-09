@@ -1,0 +1,43 @@
+div {
+    width:100px ;
+    height: 100px;
+
+}
+
+.rouge {
+    background-color: red;
+    position: static;
+}
+
+.verte {
+    background-color: green;
+    position: relative;
+}
+
+
+.rose {
+    background-color: deeppink;
+    position: fixed;
+}
+
+.jaune {
+    background-color: yellow;
+    position: absolute;
+    top: 400px;
+    bottom: 10px;
+
+}
+
+.bleu {
+    background-color: darkblue;
+    position: fixed;
+}
+
+.teal {
+    background-color: teal;
+}
+header{
+    width: 100%;
+    background-color: darkgrey;
+    height: 400px;
+}
